@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Prod 1",
+      "desc": "Description of product 1",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "title": "Prod 2",
+      "desc": "Description of product 2",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "title": "Prod 3",
+      "desc": "Description of product 3",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "title": "Prod 4",
+      "desc": "Description of product 4",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "title": "Prod 5",
+      "desc": "Description of product 5",
+      "price": 20
+    },
+    {
+      "id": 6,
+      "title": "Prod 6",
+      "desc": "Description of product 6",
+      "price": 20
+    },
+    {
+      "id": 7,
+      "title": "Prod 7",
+      "desc": "Description of product 7",
+      "price": 20
+    },
+    {
+      "id": 8,
+      "title": "Prod 8",
+      "desc": "Description of product 8",
+      "price": 20
+    },
+    {
+      "id": 9,
+      "title": "Prod 9",
+      "desc": "Description of product 9",
+      "price": 20
+    },
+    {
+      "id": 10,
+      "title": "Prod 10",
+      "desc": "Description of product 10",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "title": "Prod 11",
+      "desc": "Description of product 11",
+      "price": 20
+    },
+    {
+      "id": 12,
+      "title": "Prod 12",
+      "desc": "Description of product 12",
+      "price": 20
+    },
+    {
+      "id": 13,
+      "title": "Prod 13",
+      "desc": "Description of product 13",
+      "price": 20
+    },
+    {
+      "id": 14,
+      "title": "Prod 14",
+      "desc": "Description of product 14",
+      "price": 20
+    },
+    {
+      "id": 15,
+      "title": "Prod 15",
+      "desc": "Description of product 15",
+      "price": 20
+    },
+    {
+      "id": 16,
+      "title": "Prod 16",
+      "desc": "Description of product 16",
+      "price": 20
+    },
+    {
+      "id": 17,
+      "title": "Prod 17",
+      "desc": "Description of product 17",
+      "price": 20
+    },
+    {
+      "id": 18,
+      "title": "Prod 18",
+      "desc": "Description of product 18",
+      "price": 20
+    },
+    {
+      "id": 19,
+      "title": "Prod 19",
+      "desc": "Description of product 19",
+      "price": 20
+    },
+    {
+      "id": 20,
+      "title": "Prod 20",
+      "desc": "Description of product 20",
+      "price": 20
+    }
+  ],
+  "about": { "text": "This is some about text" }
+}
